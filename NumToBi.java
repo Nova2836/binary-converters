@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab {
+public class NumToBi {
     public static void main(String[] args) {
         System.out.println("    \nInsert a number and press 'Enter' to convert it into binary code!");
         System.out.println("    (Attention: '255' is the limit)\n");
